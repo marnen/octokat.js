@@ -226,6 +226,8 @@ URL_VALIDATOR = /// ^
       )
 
   )
+  # Optional query string params
+  (\?.*)?
   $
 ///
 
